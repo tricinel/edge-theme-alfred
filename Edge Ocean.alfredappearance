@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#52a6f0ff",
+        "font" : "System Light",
+        "color" : "#679bbcff"
+      },
+      "shortcut" : {
+        "size" : 12,
+        "colorSelected" : "#52a6f0ff",
+        "font" : "System Light",
+        "color" : "#99c7f0ff"
+      },
+      "backgroundSelected" : "#0c2a59ff",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#52a6f0ff",
+        "font" : "System Light",
+        "color" : "#99c7f0ff"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 8,
+      "iconSize" : 24
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#0c2a59ff",
+      "spacing" : 8,
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#0d3d45ff",
+        "font" : "System Light",
+        "color" : "#52a6f0ff"
+      },
+      "backgroundSelected" : "#52a6f0ff"
+    },
+    "window" : {
+      "color" : "#011638ff",
+      "paddingHorizontal" : 0,
+      "width" : 640,
+      "borderPadding" : 0,
+      "borderColor" : "#011638ff",
+      "blur" : 16,
+      "roundness" : 2,
+      "paddingVertical" : 8
+    },
+    "credit" : "Bogdan Lazar",
+    "separator" : {
+      "color" : "#011638ff",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#52a6f0ff",
+      "thickness" : 2
+    },
+    "name" : "Edge Ocean"
+  }
+}

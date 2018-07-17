@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#a9bcd0ff",
+        "font" : "System Light",
+        "color" : "#358aa9ff"
+      },
+      "shortcut" : {
+        "size" : 12,
+        "colorSelected" : "#f3d3bdff",
+        "font" : "System Light",
+        "color" : "#cce6f4ff"
+      },
+      "backgroundSelected" : "#172a3aff",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#f3d3bdff",
+        "font" : "System Light",
+        "color" : "#cce6f4ff"
+      },
+      "iconPaddingHorizontal" : 4,
+      "paddingVertical" : 8,
+      "iconSize" : 24
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#172a3aff",
+      "spacing" : 8,
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#172a3aff",
+        "font" : "System Light",
+        "color" : "#f3d3bdff"
+      },
+      "backgroundSelected" : "#f3d3bdff"
+    },
+    "window" : {
+      "color" : "#081a20ff",
+      "paddingHorizontal" : 0,
+      "width" : 640,
+      "borderPadding" : 0,
+      "borderColor" : "#081a20ff",
+      "blur" : 16,
+      "roundness" : 2,
+      "paddingVertical" : 8
+    },
+    "credit" : "Bogdan Lazar",
+    "separator" : {
+      "color" : "#081a20ff",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#a9bcd0ff",
+      "thickness" : 2
+    },
+    "name" : "Edge Night Sky"
+  }
+}
