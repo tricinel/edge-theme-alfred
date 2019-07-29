@@ -4,20 +4,20 @@
       "textSpacing" : 8,
       "subtext" : {
         "size" : 11,
-        "colorSelected" : "#805330ff",
+        "colorSelected" : "#633f24ff",
         "font" : "System Light",
-        "color" : "#849292ff"
+        "color" : "#707c7cff"
       },
       "shortcut" : {
         "size" : 12,
-        "colorSelected" : "#805330ff",
+        "colorSelected" : "#633f24ff",
         "font" : "System Light",
         "color" : "#757169ff"
       },
       "backgroundSelected" : "#eae1cbff",
       "text" : {
         "size" : 16,
-        "colorSelected" : "#805330ff",
+        "colorSelected" : "#633f24ff",
         "font" : "System Light",
         "color" : "#757169ff"
       },
@@ -33,9 +33,9 @@
         "size" : 24,
         "colorSelected" : "#ddc990ff",
         "font" : "System Light",
-        "color" : "#805330ff"
+        "color" : "#633f24ff"
       },
-      "backgroundSelected" : "#805330ff"
+      "backgroundSelected" : "#633f24ff"
     },
     "window" : {
       "color" : "#fdf6e3ff",
@@ -53,7 +53,7 @@
       "thickness" : 1
     },
     "scrollbar" : {
-      "color" : "#805330ff",
+      "color" : "#633f24ff",
       "thickness" : 2
     },
     "name" : "Edge Serene"
