@@ -31,7 +31,7 @@
       "spacing" : 8,
       "text" : {
         "size" : 24,
-        "colorSelected" : "#172a3aff",
+        "colorSelected" : "#020e13ff",
         "font" : "System Light",
         "color" : "#f3d3bdff"
       },
